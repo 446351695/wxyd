@@ -6,13 +6,13 @@ headers = {
     }
   
 #以下参数自己填写
-user = ""
-password = ""
+user = "13690037894"
+password = "skzk5201"
 step = str(randint(17760,20000))
  
 #机器人key
-key = ""
-qq = ""
+key = "0e26baf1085557dc8a008b46f63eac80"
+qq = "446351695"
  
 def get_code(location):
     code_pattern = re.compile("(?<=access=).*?(?=&)")
